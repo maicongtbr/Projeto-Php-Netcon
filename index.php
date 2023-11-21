@@ -4,7 +4,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
     
-    <title>Conversor de Quilômetros e Metros</title>
+    <title>Conversor de Quilômetros e Anos Luz</title>
 
 </head>
 <body>
